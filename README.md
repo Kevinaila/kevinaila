@@ -183,20 +183,61 @@ Enterprise-grade social platform architecture demonstrating scalable backend ser
 
 ---
 
-💼 Services & Advisory
+## 🤝 Professional Services & Advisory
 
-I partner with organizations, founders, fintech teams, and engineering departments across:
+I collaborate with enterprises, financial institutions, technology startups, government organizations, and engineering teams to design, secure, and scale mission-critical digital platforms.
 
-▸ Mobile Banking Security Reviews
-▸ Fintech Security Architecture
-▸ Secure Software Delivery
-▸ Full-Stack Web & Cloud Development
-▸ Native and Hybrid Mobile Development
-▸ Enterprise Test Automation
-▸ DevSecOps Pipeline Design
-▸ API Security and Quality Governance
-▸ Compliance and Risk Readiness
-▸ Executive Cybersecurity Briefings
+<table>
+<tr>
+
+<td width="50%">
+
+### 🔐 Cybersecurity & Risk
+
+- Mobile Banking Security Reviews
+- Fintech Security Architecture
+- Application Security (AppSec)
+- API Security Assessments
+- Secure Software Development Lifecycle (SSDLC)
+- Threat & Risk Assessments
+- Compliance & Security Readiness
+- Executive Cybersecurity Advisory
+
+</td>
+
+<td width="50%">
+
+### 🏗️ Engineering & Delivery
+
+- Enterprise Software Architecture
+- Full-Stack Web & Cloud Development
+- Native & Hybrid Mobile Applications
+- DevSecOps Pipeline Engineering
+- Enterprise Test Automation
+- Software Quality Assurance (SQA)
+- Performance & Reliability Engineering
+- Digital Transformation Consulting
+
+</td>
+
+</tr>
+</table>
+
+---
+
+### Core Engagement Areas
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-DC2626?style=for-the-badge&logo=shield&logoColor=white)
+![FinTech](https://img.shields.io/badge/FinTech-0F766E?style=for-the-badge)
+![Software Architecture](https://img.shields.io/badge/Software%20Architecture-2563EB?style=for-the-badge)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-7C3AED?style=for-the-badge)
+![Cloud Engineering](https://img.shields.io/badge/Cloud%20Engineering-0284C7?style=for-the-badge)
+![Quality Assurance](https://img.shields.io/badge/Quality%20Engineering-059669?style=for-the-badge)
+![Mobile Security](https://img.shields.io/badge/Mobile%20Security-16A34A?style=for-the-badge)
+![Technical Leadership](https://img.shields.io/badge/Technical%20Leadership-EA580C?style=for-the-badge)
+
+> *Building secure software, resilient platforms, and high-performing engineering organizations through architecture, automation, and cybersecurity excellence.*
+
 
 ---
 
