@@ -281,7 +281,7 @@ I collaborate with enterprises, financial institutions, technology startups, gov
 ---
 ## 🧭 Engineering Philosophy
 
-> *"Exceptional software is not simply written—it is intentionally architected, rigorously tested, continuously secured, thoughtfully observed, relentlessly refined, and ultimately trusted."*
+> *"Exceptional software is not simply written it is intentionally architected, rigorously tested, continuously secured, thoughtfully observed, relentlessly refined, and ultimately trusted."*
 
 Technology should solve meaningful problems with precision, resilience, and integrity. Every successful system is the result of deliberate architectural decisions, disciplined engineering practices, and an unwavering commitment to quality.
 
