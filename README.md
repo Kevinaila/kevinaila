@@ -4,6 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=900&color=007ACC&center=true&vCenter=true&width=900&lines=Securing+mobile-first+financial+ecosystems;Engineering+reliable+software+delivery+pipelines;Building+high-trust+web%2C+mobile+and+cloud+systems;Blending+architecture%2C+security+and+software+quality" /></div>
 
+---
 👋 Executive Snapshot
 
 I am Kevin Omondi, a senior software engineering, mobile security, and cybersecurity professional focused on building secure, scalable, and high-reliability digital systems.
@@ -80,6 +81,8 @@ DevSecOps and Secure Delivery Advisor
 </td>
 </tr>
 </table>
+
+---
 
 🛠️ Technology Arsenal
 
