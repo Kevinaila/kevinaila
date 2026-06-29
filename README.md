@@ -2,7 +2,7 @@
 ""LinkedIn" (https://img.shields.io/badge/LinkedIn-Kevin%20Omondi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/kevin-omondi-2141251b5)
 ""Email" (https://img.shields.io/badge/Email-Contact%20Kevin-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:ailathedev@gmail.com)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=900&color=007ACC&center=true&vCenter=true&width=900&lines=Securing+mobile-first+financial+ecosystems;Engineering+reliable+software+delivery+pipelines;Building+high-trust+web%2C+mobile+and+cloud+systems;Blending+architecture%2C+security+and+software+quality" /></div>---
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=900&color=007ACC&center=true&vCenter=true&width=900&lines=Securing+mobile-first+financial+ecosystems;Engineering+reliable+software+delivery+pipelines;Building+high-trust+web%2C+mobile+and+cloud+systems;Blending+architecture%2C+security+and+software+quality" /></div>
 
 👋 Executive Snapshot
 
