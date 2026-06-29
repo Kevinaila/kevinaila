@@ -140,27 +140,46 @@ DevSecOps and Secure Delivery Advisor
 
 ---
 
-🚀 Public Engineering Ecosystem
+## 📂 Featured Engineering Projects
 
-Most of my enterprise and financial-sector work is delivered under private client environments. Selected public repositories include:
+> Most enterprise, cybersecurity, and fintech engagements are delivered through private client repositories under strict confidentiality agreements. The projects below represent selected public work that showcases my engineering philosophy, architectural approach, and software craftsmanship.
 
-🧠 Narrative Command Centre
+---
 
-A strategic intelligence and orchestration platform focused on centralized narrative tracking, system control, and high-signal operational visibility.
+### ◈ Narrative Command Centre
 
-"TypeScript · Intelligence Systems · Command Interfaces"
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Kevinaila/Narrative-Command-Centre)
 
-✅ Hakika
+Strategic intelligence and orchestration platform engineered for centralized operational awareness, narrative analysis, decision support, and command-level visibility.
 
-A validation and verification-oriented system designed around trust, accountability, structured evidence, and lightweight digital assurance workflows.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Architecture](https://img.shields.io/badge/System%20Architecture-007ACC?style=flat-square)
+![Intelligence](https://img.shields.io/badge/Strategic%20Intelligence-0F766E?style=flat-square)
 
-"TypeScript · Verification · Trust Infrastructure"
+---
 
-🌐 RD-SOCIAL Monorepo
+### ◈ Hakika
 
-A scalable social platform architecture exploring modern mobile-first product mechanics, backend services, and monorepo delivery strategy.
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Kevinaila/Hakika)
 
-"Django · Flutter · API Architecture · Social Systems"
+Digital trust infrastructure focused on verification, accountability, workflow transparency, and evidence-driven validation for secure digital ecosystems.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Verification](https://img.shields.io/badge/Verification-2563EB?style=flat-square)
+![Trust Infrastructure](https://img.shields.io/badge/Trust%20Infrastructure-059669?style=flat-square)
+
+---
+
+### ◈ RD-SOCIAL
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Kevinaila/RD-SOCIAL-monorepo)
+
+Enterprise-grade social platform architecture demonstrating scalable backend services, modern mobile application development, and distributed system design.
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![REST API](https://img.shields.io/badge/API-009688?style=flat-square)
+![Architecture](https://img.shields.io/badge/Distributed%20Systems-1D4ED8?style=flat-square)
 
 ---
 
