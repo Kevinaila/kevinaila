@@ -79,7 +79,7 @@ DevSecOps and Secure Delivery Advisor
 
 </td>
 </tr>
-</table>---
+</table>
 
 🛠️ Technology Arsenal
 
