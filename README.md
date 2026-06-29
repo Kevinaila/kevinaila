@@ -241,9 +241,42 @@ I collaborate with enterprises, financial institutions, technology startups, gov
 
 ---
 
-📊 GitHub Activity
+## 📊 GitHub Activity & Engineering Insights
 
-<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kevinaila&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&text_color=334155&icon_color=00C2A8" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinaila&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=334155" /><img src="https://github-readme-streak-stats.herokuapp.com?user=Kevinaila&theme=transparent&hide_border=true&ring=007ACC&fire=00C2A8&currStreakLabel=007ACC" /></div>«Public GitHub activity reflects open-source and visible repository work. Enterprise delivery, financial-sector systems, security architecture, and client projects are primarily maintained in private environments.»
+<div align="center">
+
+### 📈 GitHub Statistics
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Kevinaila&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=007ACC&icon_color=00C2A8&text_color=4B5563" />
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinaila&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=4B5563" />
+
+<br><br>
+
+### 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=Kevinaila&theme=transparent&hide_border=true&ring=007ACC&fire=00C2A8&currStreakLabel=007ACC" />
+
+<br><br>
+
+### 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kevinaila&theme=algolia&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
+
+<br><br>
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kevinaila&theme=github-compact&hide_border=true&area=true" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Kevinaila&label=Profile%20Views&color=007ACC&style=for-the-badge" />
+
+</div>
+
+> **Note:** GitHub statistics reflect publicly visible repositories and open-source contributions. The majority of my enterprise software, cybersecurity engagements, financial technology platforms, software architecture initiatives, and client delivery work are developed within private repositories under strict confidentiality agreements.
+
 
 ---
 
