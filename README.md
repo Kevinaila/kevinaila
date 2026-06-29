@@ -1,6 +1,10 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:007ACC,100:00C2A8&height=220&section=header&text=Kevin%20Omondi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20Security%20Executive%20%7C%20Fintech%20Cybersecurity%20Strategist%20%7C%20CISSP-Certified&descAlignY=58&descSize=17" /> [![Portfolio](https://img.shields.io/badge/Portfolio-kevinaila.dev-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://kevinaila.dev/)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Kevin%20Omondi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/kevin-omondi-2141251b5)
-""Email" (https://img.shields.io/badge/Email-Contact%20Kevin-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:ailathedev@gmail.com)
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:007ACC,100:00C2A8&height=220&section=header&text=Kevin%20Omondi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20Security%20Executive%20%7C%20Fintech%20Cybersecurity%20Strategist%20%7C%20CISSP-Certified&descAlignY=58&descSize=17" /> 
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-kevinaila.dev-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://kevinaila.dev/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Omondi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-omondi-2141251b5)
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Kevin-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ailathedev@gmail.com)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=900&color=007ACC&center=true&vCenter=true&width=900&lines=Securing+mobile-first+financial+ecosystems;Engineering+reliable+software+delivery+pipelines;Building+high-trust+web%2C+mobile+and+cloud+systems;Blending+architecture%2C+security+and+software+quality" /></div>
 
