@@ -289,7 +289,7 @@ I believe that engineering excellence emerges when **security, performance, scal
 
 Whether leading software architecture, strengthening cybersecurity posture, designing quality engineering strategies, or building enterprise platforms, my objective remains constant:
 
-> **To engineer secure, resilient, and high-performing digital systems that organizations can depend on with confidence—today and as they evolve for tomorrow.**
+> **To engineer secure, resilient, and high-performing digital systems that organizations can depend on with confidence today and as they evolve for tomorrow.**
 
 ---
 
