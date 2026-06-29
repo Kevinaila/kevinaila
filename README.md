@@ -2,7 +2,7 @@
 
 Senior Software Engineer & Architecture Specialist with over 8 years of enterprise software development experience. I specialize in building robust Web and Mobile applications while engineering bulletproof Software Quality Assurance (SQA) pipelines and test automation frameworks. 
 
-My approach balances high-performance system architecture with an elite focus on test planning, execution, and risk mitigation—ensuring software is not just scalable, but exceptionally reliable.
+My approach balances high-performance system architecture with an elite focus on test planning, execution, and risk mitigation ensuring software is not just scalable, but exceptionally reliable.
 
 ---
 
