@@ -200,10 +200,12 @@ My focus is to help teams build digital products that are not only functional, b
 
 🤝 Connect With Me
 
-<div align="center">""Portfolio" (https://img.shields.io/badge/Visit%20Portfolio-kevinaila.dev-007ACC?style=for-the-badge&logo=vercel&logoColor=white)" (https://kevinaila.dev/)
-""LinkedIn" (https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/kevin-omondi-2141251b5)
-""Email" (https://img.shields.io/badge/Email%20Kevin-ailathedev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:ailathedev@gmail.com)
+<div align="center">
+  [![Portfolio](https://img.shields.io/badge/Portfolio-kevinaila.dev-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://kevinaila.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Omondi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-omondi-2141251b5)
+[![Email](https://img.shields.io/badge/Email-Contact%20Kevin-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ailathedev@gmail.com)
 
-</div>---
+</div>
+
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2A8,50:007ACC,100:0F172A&height=120&section=footer" /></div>
