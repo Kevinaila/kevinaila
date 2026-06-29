@@ -88,43 +88,55 @@ DevSecOps and Secure Delivery Advisor
 
 ---
 
-🛠️ Technology Arsenal
+## 🛠️ Technology Arsenal
 
-Languages & Frameworks
+### 💻 **Languages & Frameworks**
 
-"Python" (https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python)
-"Django" (https://img.shields.io/badge/Django-0F172A?style=flat-square&logo=django)
-"Flask" (https://img.shields.io/badge/Flask-0F172A?style=flat-square&logo=flask)
-"JavaScript" (https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript)
-"TypeScript" (https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript)
-"Node.js" (https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=node.js)
-"React" (https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react)
-"Next.js" (https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=next.js)
-"Ruby on Rails" (https://img.shields.io/badge/Ruby%20on%20Rails-0F172A?style=flat-square&logo=rubyonrails)
-"CSharp" (https://img.shields.io/badge/C%23-0F172A?style=flat-square&logo=csharp)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
-Mobile, Cloud & Infrastructure
+---
 
-"Android" (https://img.shields.io/badge/Android-0F172A?style=flat-square&logo=android)
-"iOS" (https://img.shields.io/badge/iOS-0F172A?style=flat-square&logo=apple)
-"Docker" (https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker)
-"AWS" (https://img.shields.io/badge/AWS-0F172A?style=flat-square&logo=amazonaws)
-"Azure" (https://img.shields.io/badge/Azure-0F172A?style=flat-square&logo=microsoftazure)
-"GCP" (https://img.shields.io/badge/GCP-0F172A?style=flat-square&logo=googlecloud)
-"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql)
-"MySQL" (https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql)
-"MongoDB" (https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb)
+### ☁️ **Mobile, Cloud & Infrastructure**
 
-SQA, Automation & Security Tooling
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-"Selenium" (https://img.shields.io/badge/Selenium-0F172A?style=flat-square&logo=selenium)
-"Cypress" (https://img.shields.io/badge/Cypress-0F172A?style=flat-square&logo=cypress)
-"Jest" (https://img.shields.io/badge/Jest-0F172A?style=flat-square&logo=jest)
-"Cucumber" (https://img.shields.io/badge/Cucumber-0F172A?style=flat-square&logo=cucumber)
-"Postman" (https://img.shields.io/badge/Postman-0F172A?style=flat-square&logo=postman)
-"Firebase" (https://img.shields.io/badge/Firebase%20Test%20Lab-0F172A?style=flat-square&logo=firebase)
-"BrowserStack" (https://img.shields.io/badge/BrowserStack-0F172A?style=flat-square&logo=browserstack)
-"Jira" (https://img.shields.io/badge/Jira-0F172A?style=flat-square&logo=jira)
+---
+
+### 🧪 **SQA, Automation & Security Tooling**
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![BrowserStack](https://img.shields.io/badge/BrowserStack-FF7139?style=for-the-badge&logo=browserstack&logoColor=white)
+![Applitools](https://img.shields.io/badge/Applitools-00B8D9?style=for-the-badge)
+![Sauce Labs](https://img.shields.io/badge/Sauce%20Labs-E2231A?style=for-the-badge)
+![Firebase Test Lab](https://img.shields.io/badge/Firebase%20Test%20Lab-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
