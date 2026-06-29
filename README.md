@@ -128,16 +128,19 @@ Most of my enterprise and financial-sector work is delivered under private clien
 🧠 Narrative Command Centre
 
 A strategic intelligence and orchestration platform focused on centralized narrative tracking, system control, and high-signal operational visibility.
+
 "TypeScript · Intelligence Systems · Command Interfaces"
 
 ✅ Hakika
 
 A validation and verification-oriented system designed around trust, accountability, structured evidence, and lightweight digital assurance workflows.
+
 "TypeScript · Verification · Trust Infrastructure"
 
 🌐 RD-SOCIAL Monorepo
 
 A scalable social platform architecture exploring modern mobile-first product mechanics, backend services, and monorepo delivery strategy.
+
 "Django · Flutter · API Architecture · Social Systems"
 
 ---
@@ -180,7 +183,7 @@ My focus is to help teams build digital products that are not only functional, b
 
 <div align="center">""Portfolio" (https://img.shields.io/badge/Visit%20Portfolio-kevinaila.dev-007ACC?style=for-the-badge&logo=vercel&logoColor=white)" (https://kevinaila.dev/)
 ""LinkedIn" (https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/kevin-omondi-2141251b5)
-""Email" (https://img.shields.io/badge/Email%20Kevin-contact%40kevinaila.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:ailathedev@gmail.com)
+""Email" (https://img.shields.io/badge/Email%20Kevin-ailathedev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:ailathedev@gmail.com)
 
 </div>---
 
